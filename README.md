@@ -37,21 +37,5 @@ The Power BI dashboard includes:
 - Overall attendance distribution bar chart
 - Department-wise attendance status (100% stacked column chart)
 
-## Repository Structure
-Employee-Attendance-Analysis/
-│
-├── data/
-│ └── Employee_Attendance_Cleaned.xlsx
-│
-├── powerbi/
-│ └── Employee_Attendance_Dashboard.pbix
-│
-├── screenshots/
-│ ├── overall_attendance_distribution.png
-│ └── department_wise_attendance.png
-│
-└── README.md
-
-
 ## Outcome
 This project demonstrates an end-to-end data analysis workflow from raw data cleaning to interactive dashboard development using Power BI.
